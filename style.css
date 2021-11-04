@@ -2,7 +2,7 @@ h1 {
     color: green;
     font-size: 35px;
     font-family: Futura Md BT;
-  }
+}
   body {
     background: color #323f3a;;
   }
@@ -27,6 +27,14 @@ h1 {
     background-color: green;
     color: white;
   }
+  #indice{
+    background-color: green;
+    color: white;
+  }
+  #Victor{
+      color: green;
+      text-align: center;
+  }
   .title{
     font-family: Futura Md BT;
     font-size: 30px;
@@ -34,12 +42,12 @@ h1 {
     font-style: italic;
     text-align: center;
   }
+  #cometario{
+    text-align: left;
+}
   p{
     font-family: Futura Bk BT;
     font-size: 16px;
     text-align: center;
   }
-  h2{
-    background-color: green;
-    color: white;
-  }
+ 
