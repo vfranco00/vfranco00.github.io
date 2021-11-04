@@ -1,46 +1,52 @@
 h1 {
-    color: green;
-    font-size: 35px;
-    font-family: Futura Md BT;
+  color: green;
+  font-size: 35px;
+  font-family: Futura Md BT;
 }
-  body {
-    background: color #323f3a;;
-  }
-  .listas{
-    font-family: Futura Bk BT;
-    font-size: 16px;
-    color: rgb(0, 0, 0)
-  }
-  .title{
-    font-family: Futura Md BT;
-    font-size: 30px;
-    font-weight: bold;
-    font-style: italic;
-    text-align: center;
-  }
-  h2{
+body {
+  background: color #323f3a;
+}
+.listas {
+  font-family: Futura Bk BT;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+  line-height: 25px;
+}
+.title {
+  font-family: Futura Md BT;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+h2 {
+  background-color: green;
+  color: white;
+}
+p {
+  font-family: Futura Bk BT;
+  font-size: 16px;
+  text-align: center;
+}
+#Victor {
+  background-color: white;
+  color: green;
+  text-align: initial;
+  font-style: normal;
+}
+#comentario {
+  text-align: initial;
+  font-style: italic;
+  color: gray;
+}
+.picture {
+  border-radius: 100%;
+  width: 200px;
+}
+button {
+    width: 500px;
     background-color: green;
     color: white;
+    padding: 10px 30px;
+    text-decoration: none;
   }
-
-  p{
-    font-family: Futura Bk BT;
-    font-size: 16px;
-    text-align: center;
-  }
-  
- #Victor{
-     background-color: white;
-     color: green;
-     text-align: initial;
-     font-style: normal;
- }
- #comentario{
-     text-align: initial;
-     font-style: italic;
-     color: gray;
- }
- .picture{
-     border-radius: 100%;
-     width: 200px;
- }
