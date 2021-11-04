@@ -1,12 +1,13 @@
 h1 {
     color: green;
     font-size: 35px;
+    font-family: Futura Md BT;
   }
   body {
     background: color #323f3a;;
   }
   .listas{
-    font-family: monospace;
+    font-family: Futura Bk BT;
     font-size: 16px;
     color: rgb(0, 0, 0)
   }
@@ -27,14 +28,14 @@ h1 {
     color: white;
   }
   .title{
-    font-family: Californian FB;
+    font-family: Futura Md BT;
     font-size: 30px;
     font-weight: bold;
     font-style: italic;
     text-align: center;
   }
   p{
-    font-family: monospace;
+    font-family: Futura Bk BT;
     font-size: 16px;
     text-align: center;
   }
