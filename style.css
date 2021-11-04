@@ -33,9 +33,11 @@ h1 {
      background-color: white;
      color: green;
      text-align: initial;
+     font-style: normal;
  }
  #comentario{
      text-align: initial;
+     font-style: italic;
  }
  .picture{
      border-radius: 100%;
