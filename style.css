@@ -38,6 +38,7 @@ h1 {
  #comentario{
      text-align: initial;
      font-style: italic;
+     color: gray;
  }
  .picture{
      border-radius: 100%;
