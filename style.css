@@ -11,30 +11,6 @@ h1 {
     font-size: 16px;
     color: rgb(0, 0, 0)
   }
-  #Redes-Sociais{
-    background-color: green;
-    color: white;
-  }
-  #Minha-história{
-    background-color: green;
-    color: white;
-  }
-  #Habilidades{
-    background-color: green;
-    color: white;
-  }
-  #Sobre-mim{
-    background-color: green;
-    color: white;
-  }
-  #indice{
-    background-color: green;
-    color: white;
-  }
-  #Victor{
-      color: green;
-      text-align: center;
-  }
   .title{
     font-family: Futura Md BT;
     font-size: 30px;
@@ -42,12 +18,22 @@ h1 {
     font-style: italic;
     text-align: center;
   }
-  #cometario{
-    text-align: left;
-}
+  h2{
+    background-color: green;
+    color: white;
+  }
+
   p{
     font-family: Futura Bk BT;
     font-size: 16px;
     text-align: center;
   }
- 
+  
+ #Victor{
+     background-color: white;
+     color: green;
+     text-align: initial;
+ }
+ #comentario{
+     text-align: initial;
+ }
