@@ -33,11 +33,14 @@ p {
   color: green;
   text-align: initial;
   font-style: normal;
+  display: block;
+  margin: 10px 40px;
 }
 #comentario {
   text-align: initial;
   font-style: italic;
-  color: gray;
+  color: gray; 
+  display: block;
 }
 .picture {
   border-radius: 100%;
